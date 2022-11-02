@@ -1,1 +1,1 @@
-print("good luck ")
+print("end")
