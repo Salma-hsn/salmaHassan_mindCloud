@@ -1,1 +1,1 @@
-print("mythird name Ahmed")
+print("good luck ")
