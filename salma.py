@@ -1,1 +1,1 @@
-print("HW")
+print("7th term")
