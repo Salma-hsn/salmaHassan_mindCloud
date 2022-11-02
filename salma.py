@@ -1,1 +1,1 @@
-print("7th term")
+print("mythird name Ahmed")
